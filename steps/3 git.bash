@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo chown -R $USER:$USER /var/www
+sudo chown -R $USER /var/www
 
 cd /var/www
 
