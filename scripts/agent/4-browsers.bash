@@ -1,7 +1,7 @@
 #!/bin/bash
 
-apt-get update
-DEBIAN_FRONTEND=noninteractive apt-get install -yq \
+sudo apt-get update
+sudo DEBIAN_FRONTEND=noninteractive apt-get install -yq \
     google-chrome-stable \
     google-chrome-beta \
     google-chrome-unstable \

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-npm install -g lighthouse && \
+sudo npm install -g lighthouse && \
 
 pip install \
     dnspython \
