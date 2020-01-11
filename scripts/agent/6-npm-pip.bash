@@ -5,7 +5,7 @@ sudo npm install -g lighthouse && \
 pip install \
     dnspython \
     monotonic \
-    pillow \
+    pillow==6.2.2 \
     psutil \
     requests \
     git+git://github.com/marshallpierce/ultrajson.git@v1.35-gentoo-fixes \
